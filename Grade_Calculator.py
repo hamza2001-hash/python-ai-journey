@@ -1,4 +1,4 @@
-for Grade in range(1, 3):
+for Grade in range(1, 4):
     score = float(input(f"Enter the score for Grade {Grade}: "))
     if score >= 90:
         print("Grade A")
