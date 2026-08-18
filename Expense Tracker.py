@@ -1,3 +1,5 @@
+expense = 0
+
 for i in range(5):
     expense += float(input(f"Enter expense {i + 1}: "))
 
